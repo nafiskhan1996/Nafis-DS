@@ -1,2 +1,2 @@
-# Nafis-DS
+# Data Science Projects
 Data Science Repo
